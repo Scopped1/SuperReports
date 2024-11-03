@@ -1,0 +1,4 @@
+name: SuperReports
+version: '${version}'
+main: it.scopped.superreports.SuperReports
+load: STARTUP
